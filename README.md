@@ -1,5 +1,6 @@
 # burger
 MVC Homework - wk13
+
 'Eat-Da-Burger' is a full stack web app deployed on Heroku. The app uses following 
 * On Client side - HTML, CSS , Javascript and JQuery is used to create the front end of the application. All the front end related files are stored in 'public' folder in the application repository. 
     * On the UI, a form element is used to get user input and submit the user entered data to the backend for processing. This is coded in index.html file in public/assets/ folder. 
